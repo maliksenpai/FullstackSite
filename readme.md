@@ -4,6 +4,8 @@
 <ul>
   <li> Python </li>
   <li> Django </li>
+  <li> Nodejs </li>
+  <li> npm </li>
   <li> React </li>
   <li> pip3 </li>
   <li> Django Rest Framework </li>
@@ -19,6 +21,7 @@
 
 <p> 
   Pip3 python 3 ile birlikte gelen bir kütüphanedir.Script kütüphanesinde bulunur.Script kütüphanesinde komut penceresi açılır ve  <code>pip3 install djangorestframework </code> ve <code>pip install django-filter </code> komutu verilir.
+  React'ı yüklemeden önce node.js'yi yüklememiz lazım.Onun için ise https://nodejs.org/en/download/ şu siteye girip indirebiliriz.Bunun indirdikten sonra onla birlikte npm'de yüklenmiştir.
   'frontend' dosyasına herhangibir react uygulamasının 'node_modules' dosyası atılır çünkü büyük bir dosya olduğu için githuba atamadım.Axiosu yüklemek için ise 'frontend' dosyasında <code>npm install axios </code> komutu verilir.
 </p>
 
